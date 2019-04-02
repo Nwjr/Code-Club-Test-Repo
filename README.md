@@ -7,9 +7,11 @@ Try to Clone, fork, download as a zip, create an issue, and create a pull reques
 
 Add you username below!
 
-1.will H
-2.ttraudt
+1. ttraudt
+2.
 3.
 4.
 5.
-
+6.
+7.
+8.Nwjr (Noah)
